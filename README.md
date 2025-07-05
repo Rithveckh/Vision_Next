@@ -6,7 +6,7 @@ VisionNext is a real-time object detection web app using **Next.js 14**, **Tailw
 
 ## 📸 Demo
 
-[Live Vercel Demo](https://visionnext.vercel.app) – coming soon!
+[Live Vercel Demo](https://vision-next-green.vercel.app) – Checkout!
 
 ---
 
