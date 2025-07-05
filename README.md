@@ -37,3 +37,13 @@ VisionNext is a real-time object detection web app using **Next.js 14**, **Tailw
 
 ```bash
 npx create-next-app@latest
+```
+```bash
+✔ Would you like to use TypeScript? → No  
+✔ Would you like to use ESLint? → Yes  
+✔ Would you like to use Tailwind CSS? → Yes  
+✔ Would you like to use `src/` directory? → No  
+✔ Would you like to use App Router? → Yes  
+✔ Would you like to use Turbopack? → No  
+✔ Customize import alias? → No  
+
