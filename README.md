@@ -45,5 +45,18 @@ npx create-next-app@latest
 ✔ Would you like to use `src/` directory? → No  
 ✔ Would you like to use App Router? → Yes  
 ✔ Would you like to use Turbopack? → No  
-✔ Customize import alias? → No  
+✔ Customize import alias? → No
+  
+```
+### ✅ Step 2:  Install Dependencies
 
+```bash
+npm install react-webcam
+npm install @tensorflow-models/coco-ssd @tensorflow/tfjs
+
+```
+### ✅ Step 3:  Add Components
+
+- Create object-detection.js inside components/
+- Create render-predictions.js for drawing bounding boxes
+- Use <ObjectDetection /> inside app/page.js
