@@ -31,6 +31,16 @@ VisionNext is a real-time object detection web app using **Next.js 14**, **Tailw
 
 ---
 
+🧠 What is TensorFlow?
+TensorFlow is an open-source machine learning (ML) and deep learning (DL) framework developed by Google.
+It allows developers to build, train, and deploy AI models efficiently.
+
+🖥️ What is TensorFlow.js?
+TensorFlow.js is the JavaScript version of TensorFlow.
+It enables ML in the browser or on Node.js — no Python, no backend, just pure in-browser ML.
+
+---
+
 ## 🧑‍💻 Installation & Setup
 
 ### ✅ Step 1: Create Project
