@@ -54,7 +54,7 @@ npx create-next-app@latest
 ✔ Would you like to use Tailwind CSS? → Yes  
 ✔ Would you like to use `src/` directory? → No  
 ✔ Would you like to use App Router? → Yes  
-✔ Would you like to use Turbopack? → No  
+✔ Would you like to use Turbopack for `next dev`? → No  
 ✔ Customize import alias? → No
   
 ```
